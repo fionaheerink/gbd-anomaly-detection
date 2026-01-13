@@ -57,5 +57,5 @@ Please note: when a country has an unusually high death rate for a specific caus
 - Plotly
 
 ## Repository Contents
-- `Anomaly_detection_GBD.ipynb`: Main analysis notebook
+- `Anomaly_detection_GBD.ipynb`: Main analysis notebook. The full code can be found here.
 - `docs/figures/`: Exported interactive Plotly visualizations (HTML)
