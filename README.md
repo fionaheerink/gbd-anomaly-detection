@@ -30,7 +30,7 @@ Non-Commercial User Agreement.
 - Principal Component Analysis (PCA)
 
 ## Preview
-![Preview of IQR outlier map](docs/images/map_IQR_preview.png)
+![Preview of IQR outlier map](docs/figures/map_IQR_preview.png)
 
 ## Interactive Visualizations (Plotly)
 - Interactive distribution of malaria and NTDs (histogram and boxplot):
