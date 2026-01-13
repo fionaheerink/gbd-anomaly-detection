@@ -30,17 +30,15 @@ Non-Commercial User Agreement.
 - Principal Component Analysis (PCA)
 
 ## Interactive Visualizations (Plotly)
-
-Interactive Plotly figures:
 - Interactive distribution of malaria and NTDs (histogram and boxplot):
   https://fionaheerink.github.io/gbd-anomaly-detection/figures/hist_box_malaria_ntd.html
 - Interactive distribution of diabetes and kidney disease (histogram and boxplot):
   https://fionaheerink.github.io/gbd-anomaly-detection/figures/hist_box_diabetes_kidney.html
-- World map of outlier counts (IQR method):  
+- World map of outlier counts (IQR method):
   https://fionaheerink.github.io/gbd-anomaly-detection/figures/outlier_map_IQR.html
-- PCA of mortality profiles + One-Class SVM anomalies:  
+- PCA of mortality profiles + One-Class SVM anomalies:
   https://fionaheerink.github.io/gbd-anomaly-detection/figures/pca_scatter_SVM.html
-- World map of anomalous countries (One-Class SVM):  
+- World map of anomalous countries (One-Class SVM):
   https://fionaheerink.github.io/gbd-anomaly-detection/figures/outlier_map_SVM.html
 - World map of anomalous countries (Isolation Forest):
   https://fionaheerink.github.io/gbd-anomaly-detection/figures/outlier_map_IF.html
@@ -53,3 +51,4 @@ Interactive Plotly figures:
 
 ## Repository Contents
 - `Anomaly_detection_GBD.ipynb`: Main analysis notebook
+- `docs/figures/`: Exported interactive Plotly visualizations (HTML)
