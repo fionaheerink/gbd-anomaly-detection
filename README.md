@@ -31,7 +31,9 @@ Non-Commercial User Agreement.
 
 ## Preview
 ![Preview of IQR outlier map](docs/figures/map_IQR_preview.png)  
-Please note: when a country has an unusually high rate for a specific cause of death, this is labeled as an 'outlier'. Countries with outlier causes are indicated in red.
+Please note: when a country has an unusually high rate for a specific cause of death, this is labeled as an 'outlier'. Countries with outlier causes are indicated in red.  
+
+
 <img src="docs/figures/diabetes_kidney_dist.png" width="500">
 
 ## Interactive Visualizations (Plotly)
