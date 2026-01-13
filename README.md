@@ -31,7 +31,7 @@ Non-Commercial User Agreement.
 
 ## Preview
 ![Preview of IQR outlier map](docs/figures/map_IQR_preview.png)  
-![Preview of distribution for diabetes and kidney disease](docs/figures/diabetes_kidney_dist.png)
+<img src="docs/figures/diabetes_kidney_dist.png" width="500">
 
 ## Interactive Visualizations (Plotly)
 - Interactive distribution of malaria and NTDs (histogram and boxplot):  
