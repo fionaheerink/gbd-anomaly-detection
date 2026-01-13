@@ -29,6 +29,9 @@ Non-Commercial User Agreement.
 - One-Class Support Vector Machine
 - Principal Component Analysis (PCA)
 
+## Preview
+![Preview of IQR outlier map](docs/images/map_IQR_preview.png)
+
 ## Interactive Visualizations (Plotly)
 - Interactive distribution of malaria and NTDs (histogram and boxplot):
   https://fionaheerink.github.io/gbd-anomaly-detection/figures/hist_box_malaria_ntd.html
